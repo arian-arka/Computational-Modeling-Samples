@@ -1,0 +1,24 @@
+Report Dataset : 
+--
+Shape : (1797, 64)
+****************************************
+Accuracy score after training on existing dataset0.9944444444444445
+----
+Classification Report : 
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        37
+           1       0.97      1.00      0.98        29
+           2       1.00      1.00      1.00        43
+           3       1.00      1.00      1.00        33
+           4       1.00      1.00      1.00        43
+           5       0.97      1.00      0.98        29
+           6       1.00      1.00      1.00        30
+           7       1.00      1.00      1.00        41
+           8       1.00      0.97      0.99        37
+           9       1.00      0.97      0.99        38
+
+    accuracy                           0.99       360
+   macro avg       0.99      0.99      0.99       360
+weighted avg       0.99      0.99      0.99       360
+
